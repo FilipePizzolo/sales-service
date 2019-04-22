@@ -1,4 +1,4 @@
-package modals;
+package com.tcc.sales.modal;
 
 public class TollUsage {
 

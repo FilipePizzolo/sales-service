@@ -1,11 +1,11 @@
-package com.tcc.sales.controllers;
+package com.tcc.sales.controller;
 
 import java.util.ArrayList;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import modals.TollUsage;
+import com.tcc.sales.modal.TollUsage;
 
 @RestController
 public class SalesController {
